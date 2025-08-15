@@ -1,2 +1,4 @@
 # rlupat.github.io
-My github page
+Welcome to my github page.
+
+I will demonstrate some basic web building
